@@ -1,1 +1,2 @@
-# rust_reservation
+# rust-reservation
+rust reservation demo practise
